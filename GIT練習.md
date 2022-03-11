@@ -9,3 +9,5 @@ git commit -m "註解內容"
 git add .
 git commit -m "第二個檔案註解"
 git log
+git checkout <commit id>
+git check master
